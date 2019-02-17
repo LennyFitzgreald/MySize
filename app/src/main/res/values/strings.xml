@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MySize</string>
+    <string name="Button">保存</string>
+    <string name="TextView">身長</string>
+</resources>
